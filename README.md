@@ -1,5 +1,5 @@
 # todolist
-# deployed on Netlify https://todolistsahithi.netlify.app/
+# deployed on Netlify https://todolistify.netlify.app/
 
 # Snapshots of the project
 # On desktop
