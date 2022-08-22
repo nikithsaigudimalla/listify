@@ -1,0 +1,12 @@
+.head {
+    font-size: x-large;
+}
+.unchecked{
+    font-weight: bolder;
+    color: white;
+}
+.checked{
+    font-weight: bold;
+    color:rgba(211, 211, 211, 0.692);
+    text-decoration: line-through;
+}
